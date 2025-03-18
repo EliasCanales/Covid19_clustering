@@ -6,4 +6,3 @@
 
 [Análisis ISO/IEC 25012](https://docs.google.com/spreadsheets/d/1NKREVEWeQxHn9AYQHmEdfbBbsX-KHuGSxhpWnCZ5zyE/edit?usp=sharing)
 
-[Análisis de Clusters](https://drive.google.com/drive/folders/1kS_ctKq5-kUbjThbCqaneF5Zjx9v_NHm?usp=sharing)
