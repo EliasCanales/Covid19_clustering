@@ -1,6 +1,6 @@
 [Base de Datos Histórica Covi19 México 2020](https://drive.google.com/file/d/1XqU_0XHLy1DXqx8Iw_sIMiB_WF9PL4B6/view?usp=sharing)
 
-[Base de Datos Históroca Puebla 2020](https://drive.google.com/file/d/1Q0ghcustRZhZLojTQ7lVXH_4Rm596rCS/view?usp=sharing)
+[Base de Datos Histórica Puebla 2020](https://drive.google.com/file/d/1Q0ghcustRZhZLojTQ7lVXH_4Rm596rCS/view?usp=sharing)
 
 [Diccionario de Datos Covid19](https://drive.google.com/drive/folders/1mV06RaXMXuRLXPrYn-OtjP8SYSOeWN6G?usp=sharing)
 
